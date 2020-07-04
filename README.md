@@ -15,7 +15,7 @@ My collection of resources, information and adjustments for the coffee I brew.
 
 | Bean                           | Clicks | Weight (g) |
 | ------------------------------ | ------ | ---------- |
-| Coffeelab - Brazylia Cemorrado | 11     | 17.4-      |
+| Coffeelab - Brazylia Cemorrado | 12     | 17.4-17.5  |
 
 ## Links
 
