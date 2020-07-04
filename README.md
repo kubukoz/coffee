@@ -17,3 +17,6 @@ My collection of resources, information and adjustments for the coffee I brew.
 | ------------------------------ | ------ | ---------- |
 | Coffeelab - Brazylia Cemorrado | 11     | 17.4-      |
 
+## Links
+
+[Learn Milk Science, Steaming, and Latte Art](https://www.youtube.com/watch?v=x5nOFirDRTo)
