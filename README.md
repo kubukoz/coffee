@@ -15,7 +15,7 @@ My collection of resources, information and adjustments for the coffee I brew.
 ## Grind settings (espresso)
 
 | Bean                                                                                                                                            | Clicks | Weight (g) | Notes                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ----------------------------------------------------- |
 | [Coffeelab - Brazylia Cemorrado](https://www.coffeedesk.pl/product/5607/Coffeelab-Brazylia-Cemorrado-Sweet-Edition-Espresso-250G)               | 12     | 17.4-17.5  |
 | [Father's Coffee - Brazil PauBrasil Espresso](https://www.coffeedesk.pl/product/8784/Father-S-Coffee-Brazil-Paubrasil-Espresso)                 | 12     | 17.5       |
 | [Audun Coffee - Brazylia Fazenda Rainha Miaki](https://www.coffeedesk.pl/product/8038/Audun-Coffee-Brazylia-Fazenda-Rainha-Miaki-Espresso-250G) | 12     | 17.7       |
