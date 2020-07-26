@@ -5,7 +5,7 @@ My collection of resources, information and adjustments for the coffee I brew.
 ## Tech stack
 
 - Machine: [Rancilio Silvia E V6](https://www.konesso.pl/product-pol-4222-Ekspres-do-kawy-Rancilio-Silvia-E-Black-V6-2020-Nero-uniw.html?gclid=EAIaIQobChMI3KD_yIG06gIVNgCiAx1RGgiCEAQYASABEgJcz_D_BwE)
-- Grinder: [Comandante C40 MK3 Nitro Blade](https://www.coffeedesk.pl/product/3751/Mlynek-Comandante-C40-Mk3-Nitro-Blade-Bamboo)
+- Grinder: [Comandante C40 MK3 Nitro Blade](https://www.coffeedesk.pl/product/4108/Mlynek-Comandante-C40-Mk3-Nitro-Blade-Wenge)
 - Dripper: [Hario V60-02 (ceramic)](https://www.coffeedesk.pl/product/224/Hario-Ceramiczny-Drip-V60-02-Bialy)
 
 ## Pre-setup
@@ -14,10 +14,12 @@ My collection of resources, information and adjustments for the coffee I brew.
 
 ## Grind settings (espresso)
 
-| Bean                                                                                                                              | Clicks | Weight (g) |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
-| [Coffeelab - Brazylia Cemorrado](https://www.coffeedesk.pl/product/5607/Coffeelab-Brazylia-Cemorrado-Sweet-Edition-Espresso-250G) | 12     | 17.4-17.5  |
-| [Father's Coffee - Brazil PauBrasil Espresso](https://www.coffeedesk.pl/product/8784/Father-S-Coffee-Brazil-Paubrasil-Espresso)   | 12     | 17.5       |
+| Bean                                                                                                                                            | Clicks | Weight (g) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+| [Coffeelab - Brazylia Cemorrado](https://www.coffeedesk.pl/product/5607/Coffeelab-Brazylia-Cemorrado-Sweet-Edition-Espresso-250G)               | 12     | 17.4-17.5  |
+| [Father's Coffee - Brazil PauBrasil Espresso](https://www.coffeedesk.pl/product/8784/Father-S-Coffee-Brazil-Paubrasil-Espresso)                 | 12     | 17.5       |
+| [Audun Coffee - Brazylia Fazenda Rainha Miaki](https://www.coffeedesk.pl/product/8038/Audun-Coffee-Brazylia-Fazenda-Rainha-Miaki-Espresso-250G) | 12     | 17.7       |
+| [Good Coffee - Brazil Gilberto Basilio](https://www.goodcoffee.pl/brazylia-gilberto-basilio-id-133)                                             | 12     | 18.1+      |
 
 ## V60 method
 
