@@ -14,12 +14,12 @@ My collection of resources, information and adjustments for the coffee I brew.
 
 ## Grind settings (espresso)
 
-| Bean                                                                                                                                            | Clicks | Weight (g) |
+| Bean                                                                                                                                            | Clicks | Weight (g) | Notes                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
 | [Coffeelab - Brazylia Cemorrado](https://www.coffeedesk.pl/product/5607/Coffeelab-Brazylia-Cemorrado-Sweet-Edition-Espresso-250G)               | 12     | 17.4-17.5  |
 | [Father's Coffee - Brazil PauBrasil Espresso](https://www.coffeedesk.pl/product/8784/Father-S-Coffee-Brazil-Paubrasil-Espresso)                 | 12     | 17.5       |
 | [Audun Coffee - Brazylia Fazenda Rainha Miaki](https://www.coffeedesk.pl/product/8038/Audun-Coffee-Brazylia-Fazenda-Rainha-Miaki-Espresso-250G) | 12     | 17.7       |
-| [Good Coffee - Brazil Gilberto Basilio](https://www.goodcoffee.pl/brazylia-gilberto-basilio-id-133)                                             | 12     | 18.1+      |
+| [Good Coffee - Brazil Gilberto Basilio](https://www.goodcoffee.pl/brazylia-gilberto-basilio-id-133)                                             | 12     | 18.1+      | Might try a finer grind as it still brews too quickly |
 
 ## V60 method
 
