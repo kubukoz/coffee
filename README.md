@@ -21,8 +21,8 @@ My collection of resources, information and adjustments for the coffee I brew.
 | [Audun Coffee - Brazylia Fazenda Rainha Miaki](https://www.coffeedesk.pl/product/8038/Audun-Coffee-Brazylia-Fazenda-Rainha-Miaki-Espresso-250G) | 12     | 17.7       |
 | [Good Coffee - Brazil Gilberto Basilio](https://www.goodcoffee.pl/brazylia-gilberto-basilio-id-133)                                             | 12     | 18.1+      | Might try a finer grind as it still brews too quickly |
 | [Le Piantagioni del Caffe - Ethiopia Dambi Uddo](https://www.coffeedesk.pl/product/9245/Le-Piantagioni-Del-Caffe-Ethiopia-Dambi-Uddo-250G) | 12 | 17.8 | 
-| [Rusty Nails - Colombia San Agustin Papagayo](https://www.coffeedesk.pl/premium/product/202/Rusty-Nails-Colombia-San-Agustin-Papagayo-250G) | 10 | 18.3+ | You need a pretty fine-ass grain for this bean...
-| [Rocket Bean - Rocket Fuel Espresso](https://www.coffeedesk.pl/premium/product/132/Rocket-Bean-Rocket-Fuel-Espresso-500G) | 10+ | 17.7- | Goes too slow with the current setting, will change
+| [Rusty Nails - Colombia San Agustin Papagayo](https://www.coffeedesk.pl/premium/product/202/Rusty-Nails-Colombia-San-Agustin-Papagayo-250G) | 10 | 18.3-4 | You need a pretty fine-ass grain for this bean...
+| [Rocket Bean - Rocket Fuel Espresso](https://www.coffeedesk.pl/premium/product/132/Rocket-Bean-Rocket-Fuel-Espresso-500G) | 12 | 18.0 |
 
 ## V60 method
 
