@@ -20,9 +20,10 @@ My collection of resources, information and adjustments for the coffee I brew.
 | [Father's Coffee - Brazil PauBrasil Espresso](https://www.coffeedesk.pl/product/8784/Father-S-Coffee-Brazil-Paubrasil-Espresso)                 | 12     | 17.5       |
 | [Audun Coffee - Brazylia Fazenda Rainha Miaki](https://www.coffeedesk.pl/product/8038/Audun-Coffee-Brazylia-Fazenda-Rainha-Miaki-Espresso-250G) | 12     | 17.7       |
 | [Good Coffee - Brazil Gilberto Basilio](https://www.goodcoffee.pl/brazylia-gilberto-basilio-id-133)                                             | 12     | 18.1+      | Might try a finer grind as it still brews too quickly |
-| [Le Piantagioni del Caffe - Ethiopia Dambi Uddo](https://www.coffeedesk.pl/product/9245/Le-Piantagioni-Del-Caffe-Ethiopia-Dambi-Uddo-250G) | 12 | 17.8 | 
-| [Rusty Nails - Colombia San Agustin Papagayo](https://www.coffeedesk.pl/premium/product/202/Rusty-Nails-Colombia-San-Agustin-Papagayo-250G) | 10 | 18.3-4 | You need a pretty fine-ass grain for this bean...
-| [Rocket Bean - Rocket Fuel Espresso](https://www.coffeedesk.pl/premium/product/132/Rocket-Bean-Rocket-Fuel-Espresso-500G) | 12 | 18.0 |
+| [Le Piantagioni del Caffe - Ethiopia Dambi Uddo](https://www.coffeedesk.pl/product/9245/Le-Piantagioni-Del-Caffe-Ethiopia-Dambi-Uddo-250G)      | 12     | 17.8       |
+| [Rusty Nails - Colombia San Agustin Papagayo](https://www.coffeedesk.pl/premium/product/202/Rusty-Nails-Colombia-San-Agustin-Papagayo-250G)     | 10     | 18.3-4     | You need a pretty fine-ass grain for this bean...     |
+| [Rocket Bean - Rocket Fuel Espresso](https://www.coffeedesk.pl/premium/product/132/Rocket-Bean-Rocket-Fuel-Espresso-500G)                       | 10     | 17.9-      | Didn't like this bean too much...                     |
+| [HAYB - WTF Etiopia Blend 50/50](https://www.coffeedesk.pl/product/13739/Espresso-Miesiaca-Hayb-Wtf-Etiopia-Blend-50-50-250G)                   | 10     | 18         |
 
 ## V60 method
 
@@ -32,6 +33,15 @@ My collection of resources, information and adjustments for the coffee I brew.
 4. Let water cool down to ~93°C
 5. Pour 50ml of water and let it brew for 30 seconds
 6. Pour the rest of the water while keeping it around halfway up the dripper
+
+## Shelf
+
+Coffees I own or have in transit but haven't set up yet.
+
+| Bean                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| [HAYB - Brazylia Cerrado Patrocinio Espresso](https://www.coffeedesk.pl/product/11992/Hayb-Brazylia-Cerrado-Patrocinio-Espresso-250G) |
+| [HAYB - Black Republic](https://www.coffeedesk.pl/product/6168/Hayb-Black-Republic-250G)                                              |
 
 ## Links
 
