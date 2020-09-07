@@ -24,6 +24,7 @@ My collection of resources, information and adjustments for the coffee I brew.
 | [Rusty Nails - Colombia San Agustin Papagayo](https://www.coffeedesk.pl/premium/product/202/Rusty-Nails-Colombia-San-Agustin-Papagayo-250G)     | 10     | 18.3-4     | You need a pretty fine-ass grain for this bean...     |
 | [Rocket Bean - Rocket Fuel Espresso](https://www.coffeedesk.pl/premium/product/132/Rocket-Bean-Rocket-Fuel-Espresso-500G)                       | 10     | 17.9-      | Didn't like this bean too much...                     |
 | [HAYB - WTF Etiopia Blend 50/50](https://www.coffeedesk.pl/product/13739/Espresso-Miesiaca-Hayb-Wtf-Etiopia-Blend-50-50-250G)                   | 10     | 18         |
+| [HAYB - Brazylia Cerrado Patrocinio Espresso](https://www.coffeedesk.pl/product/11992/Hayb-Brazylia-Cerrado-Patrocinio-Espresso-250G)           | 10     | 17.7       | WIP                                                   |
 
 ## V60 method
 
@@ -38,10 +39,9 @@ My collection of resources, information and adjustments for the coffee I brew.
 
 Coffees I own or have in transit but haven't set up yet.
 
-| Bean                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
-| [HAYB - Brazylia Cerrado Patrocinio Espresso](https://www.coffeedesk.pl/product/11992/Hayb-Brazylia-Cerrado-Patrocinio-Espresso-250G) |
-| [HAYB - Black Republic](https://www.coffeedesk.pl/product/6168/Hayb-Black-Republic-250G)                                              |
+| Bean                                                                                     |
+| ---------------------------------------------------------------------------------------- |
+| [HAYB - Black Republic](https://www.coffeedesk.pl/product/6168/Hayb-Black-Republic-250G) |
 
 ## Links
 
