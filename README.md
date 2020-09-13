@@ -24,7 +24,8 @@ My collection of resources, information and adjustments for the coffee I brew.
 | [Rusty Nails - Colombia San Agustin Papagayo](https://www.coffeedesk.pl/premium/product/202/Rusty-Nails-Colombia-San-Agustin-Papagayo-250G)     | 10     | 18.3-4     | You need a pretty fine-ass grain for this bean...     |
 | [Rocket Bean - Rocket Fuel Espresso](https://www.coffeedesk.pl/premium/product/132/Rocket-Bean-Rocket-Fuel-Espresso-500G)                       | 10     | 17.9-      | Didn't like this bean too much...                     |
 | [HAYB - WTF Etiopia Blend 50/50](https://www.coffeedesk.pl/product/13739/Espresso-Miesiaca-Hayb-Wtf-Etiopia-Blend-50-50-250G)                   | 10     | 18         |
-| [HAYB - Brazylia Cerrado Patrocinio Espresso](https://www.coffeedesk.pl/product/11992/Hayb-Brazylia-Cerrado-Patrocinio-Espresso-250G)           | 10     | 17.7       | WIP                                                   |
+| [HAYB - Brazylia Cerrado Patrocinio Espresso](https://www.coffeedesk.pl/product/11992/Hayb-Brazylia-Cerrado-Patrocinio-Espresso-250G)           | 10     | 17.7       |
+| [HAYB - Black Republic](https://www.coffeedesk.pl/product/6168/Hayb-Black-Republic-250G)                                                        | 10     | 17.7       |
 
 ## V60 method
 
@@ -39,9 +40,16 @@ My collection of resources, information and adjustments for the coffee I brew.
 
 Coffees I own or have in transit but haven't set up yet.
 
-| Bean                                                                                     |
-| ---------------------------------------------------------------------------------------- |
-| [HAYB - Black Republic](https://www.coffeedesk.pl/product/6168/Hayb-Black-Republic-250G) |
+| Bean                                                                                                                                                    | notes      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Rocket Bean - Honduras Marcala Omniroast](https://www.coffeedesk.pl/product/6864/Rocket-Bean-Honduras-Marcala-Omniroast)                               |
+| [Coffeelab - Gwatemala Huehuetenango Espresso](https://www.coffeedesk.pl/product/6986/Coffeelab-Gwatemala-Huehuetenango-Espresso)                       |
+| [HAYB - Etiopia Yirgacheffe Konga](https://www.coffeedesk.pl/product/13508/Hayb-Etiopia-Yirgacheffe-Konga)                                              |
+| [Rocket Bean - Summer Blend Espresso 200g](https://www.coffeedesk.pl/product/13645/Rocket-Bean-Summer-Blend-Espresso-200G)                              |
+| [HAYB - WTF Etiopia Blend 50/50](https://www.coffeedesk.pl/product/13739/Hayb-Wtf-Etiopia-Blend-50-50-250G)                                             | yes, again |
+| [Caffenation - Guatemala Santa Rosa El Boqueron](https://www.coffeedesk.pl/product/13888/Przelew-Miesiaca-Caffenation-Guatemala-Santa-Rosa-El-Boqueron) |
+| [Coffeelab - Brazylia Igarape Rainforest Espresso](https://www.coffeedesk.pl/product/14002/Coffeelab-Brazylia-Igarape-Rainforest-Espresso)              |
+
 
 ## Links
 
