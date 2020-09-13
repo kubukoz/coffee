@@ -41,7 +41,7 @@ My collection of resources, information and adjustments for the coffee I brew.
 Coffees I own or have in transit but haven't set up yet.
 
 | Bean                                                                                                                                                    | notes      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Rocket Bean - Honduras Marcala Omniroast](https://www.coffeedesk.pl/product/6864/Rocket-Bean-Honduras-Marcala-Omniroast)                               |
 | [Coffeelab - Gwatemala Huehuetenango Espresso](https://www.coffeedesk.pl/product/6986/Coffeelab-Gwatemala-Huehuetenango-Espresso)                       |
 | [HAYB - Etiopia Yirgacheffe Konga](https://www.coffeedesk.pl/product/13508/Hayb-Etiopia-Yirgacheffe-Konga)                                              |
