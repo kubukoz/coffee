@@ -44,12 +44,11 @@ Coffees I own or have in transit but haven't set up yet.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Rocket Bean - Honduras Marcala Omniroast](https://www.coffeedesk.pl/product/6864/Rocket-Bean-Honduras-Marcala-Omniroast)                               |
 | [Coffeelab - Gwatemala Huehuetenango Espresso](https://www.coffeedesk.pl/product/6986/Coffeelab-Gwatemala-Huehuetenango-Espresso)                       |
-| [HAYB - Etiopia Yirgacheffe Konga](https://www.coffeedesk.pl/product/13508/Hayb-Etiopia-Yirgacheffe-Konga)                                              |
+| [HAYB - Etiopia Yirgacheffe Konga](https://www.coffeedesk.pl/product/13508/Hayb-Etiopia-Yirgacheffe-Konga)                                              | filter     |
 | [Rocket Bean - Summer Blend Espresso 200g](https://www.coffeedesk.pl/product/13645/Rocket-Bean-Summer-Blend-Espresso-200G)                              |
 | [HAYB - WTF Etiopia Blend 50/50](https://www.coffeedesk.pl/product/13739/Hayb-Wtf-Etiopia-Blend-50-50-250G)                                             | yes, again |
-| [Caffenation - Guatemala Santa Rosa El Boqueron](https://www.coffeedesk.pl/product/13888/Przelew-Miesiaca-Caffenation-Guatemala-Santa-Rosa-El-Boqueron) |
+| [Caffenation - Guatemala Santa Rosa El Boqueron](https://www.coffeedesk.pl/product/13888/Przelew-Miesiaca-Caffenation-Guatemala-Santa-Rosa-El-Boqueron) | filter     |
 | [Coffeelab - Brazylia Igarape Rainforest Espresso](https://www.coffeedesk.pl/product/14002/Coffeelab-Brazylia-Igarape-Rainforest-Espresso)              |
-
 
 ## Links
 
