@@ -6,7 +6,7 @@ My collection of resources, information and adjustments for the coffee I brew.
 
 - Machine: [Rancilio Silvia E V6](https://www.konesso.pl/product-pol-4222-Ekspres-do-kawy-Rancilio-Silvia-E-Black-V6-2020-Nero-uniw.html?gclid=EAIaIQobChMI3KD_yIG06gIVNgCiAx1RGgiCEAQYASABEgJcz_D_BwE)
 - Grinder: [Comandante C40 MK3 Nitro Blade](https://www.coffeedesk.pl/product/4108/Mlynek-Comandante-C40-Mk3-Nitro-Blade-Wenge)
-- ~~Dripper: [Hario V60-02 (ceramic)](https://www.coffeedesk.pl/product/224/Hario-Ceramiczny-Drip-V60-02-Bialy)~~ (temporarily gone)
+- Dripper: [Hario V60-02 (ceramic)](https://www.coffeedesk.pl/product/224/Hario-Ceramiczny-Drip-V60-02-Bialy)
 
 ## Pre-setup
 
