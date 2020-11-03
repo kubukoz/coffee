@@ -40,15 +40,16 @@ My collection of resources, information and adjustments for the coffee I brew.
 
 Coffees I own or have in transit but haven't set up yet.
 
-| Bean                                                                                                                                                    | notes      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Rocket Bean - Honduras Marcala Omniroast](https://www.coffeedesk.pl/product/6864/Rocket-Bean-Honduras-Marcala-Omniroast)                               |
-| [Coffeelab - Gwatemala Huehuetenango Espresso](https://www.coffeedesk.pl/product/6986/Coffeelab-Gwatemala-Huehuetenango-Espresso)                       |
-| [HAYB - Etiopia Yirgacheffe Konga](https://www.coffeedesk.pl/product/13508/Hayb-Etiopia-Yirgacheffe-Konga)                                              | filter     |
-| [Rocket Bean - Summer Blend Espresso 200g](https://www.coffeedesk.pl/product/13645/Rocket-Bean-Summer-Blend-Espresso-200G)                              |
-| [HAYB - WTF Etiopia Blend 50/50](https://www.coffeedesk.pl/product/13739/Hayb-Wtf-Etiopia-Blend-50-50-250G)                                             | yes, again |
-| [Caffenation - Guatemala Santa Rosa El Boqueron](https://www.coffeedesk.pl/product/13888/Przelew-Miesiaca-Caffenation-Guatemala-Santa-Rosa-El-Boqueron) | filter     |
-| [Coffeelab - Brazylia Igarape Rainforest Espresso](https://www.coffeedesk.pl/product/14002/Coffeelab-Brazylia-Igarape-Rainforest-Espresso)              |
+| Bean                                                                                                                                                               | notes  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| [HAYB - Etiopia Yirgacheffe Konga](https://www.coffeedesk.pl/product/13508/Hayb-Etiopia-Yirgacheffe-Konga)                                                         | filter |
+| [Caffenation - Guatemala Santa Rosa El Boqueron](https://www.coffeedesk.pl/product/13888/Przelew-Miesiaca-Caffenation-Guatemala-Santa-Rosa-El-Boqueron)            | filter |
+| [Audun Coffee - Brazylia Fazenda Rainha Miaki](https://www.coffeedesk.pl/product/4757/Audun-Coffee-Brazylia-Fazenda-Rainha-Miaki)                                  | again  |
+| [Coffeelab - Brazylia Yellow Bourbon Fazenda Rainha Espresso](https://www.coffeedesk.pl/product/2522/Coffeelab-Brazylia-Yellow-Bourbon-Fazenda-Rainha-Espresso)    |        |
+| [Kofi Brand - Brazylia Guaxupe](https://www.coffeedesk.pl/product/999/Kofi-Brand-Brazylia-Guaxupe-250G)                                                            |        |
+| [Kofi Brand Kofi Brasil](https://www.coffeedesk.pl/product/935/Kofi-Brand-Kofi-Brasil-250G)                                                                        |        |
+| [Hard Beans - Gwatemala Huehuetenango Mario Recinos](https://www.coffeedesk.pl/product/14249/Hard-Beans-Gwatemala-Huehuetenango-Mario-Recinos-250G)                |        |
+| [Hard Beans x Coffeedesk - Brazylia Colibri Santos Espresso](https://www.coffeedesk.pl/product/9232/Hard-Beans-X-Coffeedesk-Brazylia-Colibri-Santos-Espresso-250G) |        |
 
 ## Links
 
